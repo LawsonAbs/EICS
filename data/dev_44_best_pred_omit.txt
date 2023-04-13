@@ -1,0 +1,623 @@
+0 The Seeker is a song written by ABBA composers Björn Ulvaeus and Benny Andersson towards the end of the group 's career .
+1 The song was however not recorded by ABBA , but was ' given ' by the composers to be included in the 1983 London staging of the originally French musical " Abbacadabra " , based on 14 of the group 's songs .
+2 The lyrics were altered for the show by Don Black and Mike Batt .
+3 The song was performed by singer and actor B.
+4 A. Robertson , and recorded for the English language cast album .
+5 It was used as the B - side to the single " Time " .
+6 The song was re - recorded by Benny Anderssons Orchestra in 2007 with a new chorus and completely new lyrics , as well as a new title " Upp Till Dig " , and was performed by Helen Sjöholm .
+(I Am) The Seeker|7,4,5|6 Abbacadabra, 1983, publication date, [1] （1）句内分析
+(I Am) The Seeker|2,1,18|2 Björn Ulvaeus, ABBA, member of, [0] （1）句内分析
+(I Am) The Seeker|3,1,18|3 Benny Andersson, ABBA, member of, [0] （1）句内分析
+(I Am) The Seeker|1,2,11|0 ABBA, Björn Ulvaeus, has part, [0] （1）句内分析
+
+0 Addy Lee a celebrities ' hair stylist , known for innovative methods with hair .
+1 He left home in 1984 , at the age of 13 to pursue a childhood dream .
+2 He was the youngest son of a grocery shop owner .
+3 In his young mind , he had wished to work in an air - conditioned area where he did n't have to sweat and with nice clothes to wear .
+4 In 1990 , at the age of 19 , he left his hometown in Penang and went to Singapore in search for that dream .
+5 For 3 years , he moved from one establishment to another , gathering experience in both the creative art of hairdressing and the competencies of running a hair salon business .
+6 Lee is , today a well known name in Singapore .
+7 He possesses a wide portfolio of work that ranges from TV , print commercials , hairshows , seminars workshops and celebrities that includes famous local names like Michelle Chia , Joanne Peh , Quan Yi Fong , Mark Lee , Bryan Wong and more .
+8 Lee has opened 9 salons in Singapore and Malaysia , and has started Monsoon Hair Academy to help others who wish to establish a career in the hairdressing industry .
+9 He tried mesotherapy because he wanted a smaller waist , but it was painful , the injections left marks , and he did not see results .
+Addy Lee|10,6,3|2 Quan Yi Fong, Singapore, country of citizenship, [6, 7] （3）需要推导
+Addy Lee|12,6,3|4 Bryan Wong, Singapore, country of citizenship, [6, 7] （3）需要推导
+Addy Lee|8,6,3|0 Michelle Chia, Singapore, country of citizenship, [6, 7] （3）需要推导 因为之前的句子说它在 Singapore 很出名，接着说他为一些人做了发型，这些人有谁谁谁，所以能推导出这些人在 Singapore
+Addy Lee|9,6,3|1 Joanne Peh, Singapore, country of citizenship, [6, 7]（3）需要推导
+Addy Lee|11,6,3|3 Mark Lee, Singapore, country of citizenship, [6, 7] （3）需要推导
+Addy Lee|0,5,14|5 Addy Lee, Penang, place of birth, [0, 4] （2）指代分析 he => Addy Lee
+
+0 Albemarle County is a county located in the Piedmont region of the Commonwealth of Virginia .
+1 Its county seat is Charlottesville , which is an independent city and enclave entirely surrounded by the county .
+2 Albemarle County is part of the Charlottesville Metropolitan Statistical Area .
+3 As of the 2010 census , the population of Albemarle County was 98,970 , more than triple the 1960 census count .
+4 Albemarle County was created in 1744 from the western portion of Goochland County , though portions of Albemarle were later carved out to create other counties .
+5 Albemarle County was named in honor of Willem Anne van Keppel , 2nd Earl of Albemarle .
+6 However , its most famous inhabitant was Thomas Jefferson , who built his estate home , Monticello , in the county .
+Albemarle County, Virginia|12,13,90|4 Thomas Jefferson, Monticello, residence, [6] （1）句内分析
+Albemarle County, Virginia|10,3,4|14 Albemarle, Charlottesville, contains administrative territorial entity, [0, 1] （6）标签重复
+Albemarle County, Virginia|3,10,2|10 Charlottesville, Albemarle, located in the administrative territorial entity, [0, 1] （2）指代分析 Its -> Albemarle County 但是有重复的嫌疑
+Albemarle County, Virginia|13,0,2|5 Monticello, Albemarle County, located in the administrative territorial entity, [0, 5, 6] （2）指代分析 its -> Albemarle county
+Albemarle County, Virginia|10,2,2|13 Albemarle, Commonwealth of Virginia, located in the administrative territorial entity, [0] （1）句内分析
+Albemarle County, Virginia|13,12,34|6 Monticello, Thomas Jefferson, owned by, [6] （1）句内分析
+Albemarle County, Virginia|2,10,4|9 Commonwealth of Virginia, Albemarle, contains administrative territorial entity, [0] （1）句内分析
+Albemarle County, Virginia|13,10,2|12 Monticello, Albemarle, located in the administrative territorial entity, [0, 5, 6] （6）标签重复
+
+0 Allen County is a county in the U.S. state of Ohio .
+1 As of the 2010 census , the population was 106,331 .
+2 The county seat is Lima .
+3 The county was created in 1820 and organized in 1831 .
+4 The county is named for Colonel John Allen , who was killed leading his men at the Battle of Frenchtown , during the War of 1812 .
+5 It has also been claimed the county was named for Revolutionary War soldier Ethan Allen , but the weight of the evidence in favor of John Allen led the General Assembly to declare in 1976 that the county was named for him .
+6 Allen County comprises the Lima , OH Metropolitan Statistical Area , which is also part of the Lima - Van Wert - Wapakoneta , OH Combined Statistical Area .
+Allen County, Ohio|5,0,79|6 Lima, Allen County, capital of, [0, 2] （2）指代分析 同上
+Allen County, Ohio|8,9,27|9 John Allen, Battle of Frenchtown, conflict, [4] （1）句内分析
+Allen County, Ohio|0,5,70|14 Allen County, Lima, capital, [0, 2]  （2）指代分析   SSAN遗漏了
+Allen County, Ohio|0,7,15|15 Allen County, 1831, inception, [0, 3]  （4）标签错误
+Allen County, Ohio|0,5,4|13 Allen County, Lima, contains administrative territorial entity, [0, 2] （8）理解语义 同上分析，The county seat 指的就是Allen County 的政府所在地
+
+0 Allen Francis Moore ( September 30 , 1869 – August 18 , 1945 ) was a U.S. Representative from Illinois .
+1 Moore was born in St. Charles , Kane County , Illinois .
+2 In 1870 , he moved to Piatt County with his parents , who settled in Monticello , Illinois , where he attended the common schools .
+3 He graduated from the Monticello High School in 1886 and from Lombard College , Galesburg , Illinois , in 1889 .
+4 He engaged in the manufacture of proprietary medicines and later in banking .
+5 He served as trustee of the University of Illinois from 1908 - 1914 .
+6 Moore was elected as a Republican to the Sixty - seventh and Sixty - eighth Congresses ( March 4 , 1921 – March 3 , 1925 ) .
+7 He declined to be a candidate for reelection in 1924 to the Sixty - ninth Congress .
+8 He served as member of the Republican National Committee in 1925 , and resumed his former business pursuits in Monticello , Illinois .
+9 He moved to San Antonio , Texas , in 1939 and engaged in oil development until his death there August 18 , 1945 .
+10 He was interred in Monticello Cemetery , Monticello , Illinois .
+Allen F. Moore|24,18,12|27 Republican National Committee, Republican, part of, [8, 6] （7）无法得出
+Allen F. Moore|26,3,1|28 San Antonio, U.S., country, [0, 9] （7）无法得出
+Allen F. Moore|8,4,2|19 Piatt County, Illinois, located in the administrative territorial entity, [1, 2]  evidence标注错误（1）句内分析
+Allen F. Moore|27,3,2|29 Texas, U.S., located in the administrative territorial entity, [0, 9] （7）无法得出
+Allen F. Moore|4,8,4|14 Illinois, Piatt County, contains administrative territorial entity, [2] （1）句内分析
+Allen F. Moore|10,3,1|21 Monticello High School, U.S., country, [0, 3] （3）需要推导
+Allen F. Moore|0,26,37|7 Allen Francis Moore, San Antonio, place of death, [9] （1）句内分析
+Allen F. Moore|18,3,1|25 Republican, U.S., country, [0, 6] （3）需要推导  同理，这个人被选举成了 Republican，同时这个人是美国人，所以知道这个Republican 的country是美国
+Allen F. Moore|3,27,4|10 U.S., Texas, contains administrative territorial entity, [0, 9] （3）需要推导  弱关系 这个人是美国人，同时这个人后来移民到Texas，所以能说明 Texas in U.S.， 即 U.S. contains administrative terrestrial entity Texas
+
+0 America 's Sweetheart is the debut studio album by American alternative rock musician Courtney Love , released worldwide on February 10 , 2004 by Virgin Records .
+1 Her first official release after her former band Hole 's break - up , the album 's sound diverged significantly in musical and lyrical content to Hole 's three previous studio albums : Pretty on the Inside ( 1991 ) , Live Through This ( 1994 ) and Celebrity Skin ( 1998 ) .
+2 The recording process of the album began in summer 2001 in Los Angeles , California , however , was affected drastically by a number of personal and legal issues by Love ; including her drug problems , the disbandment of Hole , the controversy surrounding Nirvana 's upcoming box set , and legal problems with various record labels .
+3 In spring 2003 , Love traveled to southern France to re - record the album , however , according to Love , she " just wanted to be in a château for six months and do drugs . "
+4 The album had three main producers , one of whom , James Barber , was Love 's partner at the time .
+5 Following recording , America 's Sweetheart was further delayed due to Virgin 's excessive input on the album 's mastering , art work and design , and track listing .
+6 Upon its release , it received little promotion , with the main source of media exposure being a music video for the album 's first single , " Mono , " and Love 's highly publicised drug issues .
+7 America 's Sweetheart received mixed reviews and was a commercial failure , selling little over 200,000 copies in the United States , and with Love further citing the album as " a mistake . "
+8 In more recent years , both Love and producer Linda Perry have referred to the album as " le disaster " and " ruined because [ Love ] was coked out , " respectively .
+9 The album featured drumming from former Hole drummer Patty Schemel , as well as guest instrumentation and vocals from Emilie Autumn .
+America's Sweetheart (album)|21,1,13|11 Mono, American, country of origin, [0, 6, 7] （3）需要推导
+America's Sweetheart (album)|2,1,3|15 Love, American, country of citizenship, [0] （1）句内分析
+America's Sweetheart (album)|21,3,5|9 Mono, February 10, 2004, publication date, [0, 6] （2）指代分析 its => the debut studio album
+America's Sweetheart (album)|10,5,6|6 Celebrity Skin, Hole, performer, [1] （1）句内分析
+America's Sweetheart (album)|21,23,13|13 Mono, United States, country of origin, [0, 6, 7]  （7）无法得出
+
+0 The Beibu Gulf Economic Rim or Beibu Economic Belt ( ) also known as Gulf of Tonkin Economic Belt in ( Vietnamese : Vành đai kinh tế vịnh Bắc Bộ ) defines the economic region or rim surrounding around China 's southwestern coastal region and cities around the Gulf of Tonkin .
+1 The region is part of Chinese government 's " Go West " strategy , to boost its less developed western regions .
+2 The implementation of the campaign , has resulted in many construction projects in cities on the Beibu Gulf Rim , especially in Guangxi .
+3 The Beibu Gulf economic rim has emerged as a new highlight of China - ASEAN cooperation , especially between Vietnam , who is also cooperating in this economic zone .
+4 It covers Guangdong , Hainan and Guangxi , and northern and central Vietnam .
+Beibu Gulf Economic Rim|6,2,77|1 Beibu Gulf Rim, Chinese, basin country, [1, 2]  evidence标注错误（1）句内分析
+Beibu Gulf Economic Rim|9,1,58|4 Vietnam, Vietnamese, official language, [] （7）无法得出
+Beibu Gulf Economic Rim|4,2,1|12 Gulf of Tonkin, Chinese, country, [0, 1] （7）无法得出
+Beibu Gulf Economic Rim|4,2,77|0 Gulf of Tonkin, Chinese, basin country, [0, 1] （8） 理解语义
+
+0 Brooks Pharmacy was a chain of more than 330 pharmacies located throughout New England and New York and has been a well - recognized name in the New England pharmacy industry for several decades .
+1 The corporate headquarters were located in Warwick , Rhode Island .
+2 During its heyday in the late 1990s and early 2000s , Brooks was one of the premier regional drug chains in the United States , and was the second largest drug chain in New England , maintaining an especially strong presence in the states of Vermont , New Hampshire , and Rhode Island .
+3 In 2002 , Brooks was recipient of the 2002 Rex Awards Regional Chain of the Year .
+4 However , Brooks faced many difficulties between 2004 and 2006 , as its parent company struggled unsuccessfully to integrate 1,500 Eckerd stores acquired from J.C. Penney with the existing Brooks network , resulting in a steady loss of market share and lagging same - store sales as CVS and Walgreens continued to expand and solidify their store base in the New England region .
+5 In 2007 , Brooks Pharmacy officially announced the sale of the pharmacy to Rite - Aid Pharmacy .
+6 The Brooks trade name , long associated with New England drug retailing , was retired .
+Brooks Pharmacy|2,9,11|4 New England, Vermont, has part, [2] （1）句内分析
+Brooks Pharmacy|0,20,71|1 Brooks Pharmacy, 2007, dissolved, abolished or demolished, [5, 6] （2）指代分析 The Brooks => Brooks Pharmacy
+Brooks Pharmacy|17,8,1|17 J.C. Penney, the United States, country, [2, 4] （7）无法得出
+Brooks Pharmacy|2,5,11|2 New England, Rhode Island, has part, [2] （1）句内分析 
+Brooks Pharmacy|2,10,11|5 New England, New Hampshire, has part, [2] （1）句内分析
+Brooks Pharmacy|21,8,1|22 Rite - Aid Pharmacy, the United States, country, [2, 5] （7）无法得出  需要外部知识辅助
+Brooks Pharmacy|19,8,1|21 Walgreens, the United States, country, [2, 4] （7）无法得出  很难判断
+
+0 Conrad Oberon Johnson ( November 15 , 1915 – February 3 , 2008 ) was an American music educator , long associated with the city of Houston , who was inducted into the Texas Bandmasters Hall of Fame in 2000 .
+1 Born in Victoria , Texas , Conrad Johnson was nine when his family moved to Houston .
+2 Following studies at Yates High School , he attended Houston College for Negroes and graduated from Wiley College .
+3 He was an active member of Omega Psi Phi Fraternity .
+4 He started his career in music education in 1941 and , following a thirty - seven - year career , retired from his position at Kashmere High School in 1978 , but continued to remain active in shaping music in Houston by conducting summer programs and in - home tutoring .
+5 Johnson was a proficient musician in his own right and , at one point , played with Count Basie .
+6 Erskine Hawkins tried to convince him to join his orchestra , but Johnson declined , citing a love of teaching and obligations to his family .
+7 Later , Johnson made his lasting contribution to music by forming the Kashmere Stage Band , a renowned school orchestra that won a number of awards during its decade - long run .
+8 The Conrad O. Johnson School of Fine Arts at Kashmere High School is named after him .
+9 Conrad O. Johnson died in Houston days after his former students staged a celebration in his honor .
+10 The gala Saturday night concert , which was filmed by a documentary crew , was described by the students as " the greatest 92nd birthday gift that he could have ever requested . "
+Conrad O. Johnson|3,7,4|19 American, Victoria, contains administrative territorial entity, [0, 1] （3）需要推导
+Conrad O. Johnson|8,3,2|10 Texas, American, located in the administrative territorial entity, [0, 1]  （3）需要推导 因为这个人是美国人，出生在 Texas ，所以存在这么一条关系
+Conrad O. Johnson|4,3,1|7 Houston, American, country, [0] （1）句内分析
+Conrad O. Johnson|8,3,1|11 Texas, American, country, [0, 1] （7）无法得出
+Conrad O. Johnson|8,7,4|9 Texas, Victoria, contains administrative territorial entity, [1] （1）句内分析
+Conrad O. Johnson|10,3,1|13 Yates High School, American, country, [0, 1, 2]  （3）需要推导
+Conrad O. Johnson|20,3,13|17 Kashmere Stage Band, American, country of origin, [0, 7]  （3）需要推导
+Conrad O. Johnson|11,3,1|14 Houston College for Negroes, American, country, [0, 1, 2] （3）需要推导
+Conrad O. Johnson|5,3,1|8 Texas Bandmasters Hall of Fame, American, country, [0] （1）句内分析
+Conrad O. Johnson|12,3,1|15 Wiley College, American, country, [0, 1, 2] （3）需要推导
+Conrad O. Johnson|21,3,1|18 Conrad O. Johnson School of Fine Arts, American, country, [0, 8, 4]  （3）需要推导
+Conrad O. Johnson|10,4,2|12 Yates High School, Houston, located in the administrative territorial entity, [1, 2]   （3）需要推导-理解句意
+
+0 Crouching Tiger , Hidden Dragon : Sword of Destiny ( ) is a 2016 American - Chinese martial arts film directed by Yuen Woo - ping and written by John Fusco , based on the novel Iron Knight , Silver Vase by Wang Dulu .
+1 It is also a sequel to the 2000 film Crouching Tiger , Hidden Dragon .
+2 The film stars Donnie Yen , Michelle Yeoh , Harry Shum , Jr. , Jason Scott Lee , Roger Yuan , Woon Young Park , Eugenia Yuan , JuJu Chan , Chris Pang , Veronica Ngo , Shuya Chang and Natasha Liu Bordizzo .
+3 The film was released in Hong Kong on February 18 , in China on February 19 and worldwide on Netflix outside China on February 26 , 2016 .
+Crouching Tiger, Hidden Dragon: Sword of Destiny|9,3,13|1 Crouching Tiger , Hidden Dragon, Chinese, country of origin, [0, 1]  （7）无法得出
+Crouching Tiger, Hidden Dragon: Sword of Destiny|0,7,53|4 Crouching Tiger , Hidden Dragon : Sword of Destiny, Wang Dulu, screenwriter, [0] （1）句内分析
+Crouching Tiger, Hidden Dragon: Sword of Destiny|0,3,13|17 Crouching Tiger , Hidden Dragon : Sword of Destiny, Chinese, country of origin, [0] （1）句内分析
+Crouching Tiger, Hidden Dragon: Sword of Destiny|0,9,45|5 Crouching Tiger , Hidden Dragon : Sword of Destiny, Crouching Tiger , Hidden Dragon, followed by, [0, 1] （2）指代分析 It -> 卧虎藏龙
+
+0 The Delaware General Assembly is the legislature of the U.S. state of Delaware .
+1 It is a bicameral legislature composed of the Delaware Senate with 21 Senators and the Delaware House of Representatives with 41 Representatives .
+2 It meets at Legislative Hall in Dover , Delaware , convening on the second Tuesday of January of odd - numbered years , with a second session of the same Assembly convening likewise in even - numbered years .
+3 Normally the sessions are required to adjourn by the last day of June of the same calendar year .
+4 However the Governor can call a special session of the legislature at any time .
+5 Members are elected from single - member districts , all apportioned to roughly equal populations after each decennial Census .
+6 Elections are held on the Tuesday after the first Monday in November and about one - half of the Senate is elected every two years for a four - year term , and the entire House of Representatives is elected every two years for a two - year term .
+7 Vacancies are filled through special elections .
+8 There are no term limits for either chamber .
+Delaware General Assembly|3,2,24|10 Delaware Senate, Delaware, applies to jurisdiction, []  （1）句内分析
+Delaware General Assembly|2,5,48|8 Delaware, Delaware House of Representatives, legislative body, [] （3）需要推导
+Delaware General Assembly|2,3,48|7 Delaware, Delaware Senate, legislative body, []  （2）指代分析 第1句中的 It 指代
+
+0 Dollar General Corporation is an American chain of variety stores headquartered in Goodlettsville , Tennessee .
+1 As of July 2018 , Dollar General operates 15,000 stores in 45 of the 48 contiguous United States ( the exceptions being three states in the northwest : Idaho , Montana , and Washington ) .
+2 The company first began in 1939 as a family - owned business called J.L.
+3 Turner and Son in Scottsville , Kentucky by James Luther Turner and Cal Turner .
+4 In 1968 , the name changed to Dollar General Corporation and the company went public on the New York Stock Exchange .
+5 Fortune 500 recognized Dollar General in 1999 and in 2018 reached # 123 .
+6 Dollar General has grown to become one of the most profitable stores in the rural United States with revenue reaching around $ 21 billion in 2017 .
+Dollar General|10,1,2|17 Idaho, American, located in the administrative territorial entity, [0, 1] （1）句内分析
+Dollar General|10,1,1|18 Idaho, American, country, [0, 1] （1）句内分析
+Dollar General|11,1,2|21 Montana, American, located in the administrative territorial entity, [0, 1]  （1）句内分析
+Dollar General|2,3,2|3 Goodlettsville, Tennessee, located in the administrative territorial entity, [0]  （1）句内分析
+Dollar General|11,1,1|22 Montana, American, country, [0, 1]  （1）句内分析
+Dollar General|12,1,2|25 Washington, American, located in the administrative territorial entity, [0, 1] （1）句内分析
+Dollar General|18,1,2|30 Kentucky, American, located in the administrative territorial entity, [0, 3] （3）需要推导
+Dollar General|15,8,1|32 James Luther Turner, United States, country, [1, 3] （3）需要推导 企业由它创办，企业在美国，于是推导出他的国家是美国。但是不是应该叫做 citizenship of 比较好？ 因为人是没有国家这个属性的。
+Dollar General|21,1,1|35 New York Stock Exchange, American, country, [0, 4] （7）无法得出
+Dollar General|15,1,1|33 James Luther Turner, American, country, [0, 3] （4）标签错误
+Dollar General|12,1,1|26 Washington, American, country, [0, 1]  （1）句内分析
+
+0 Grand Wing Servo - Tech Co. , Ltd. or GWS is a Taiwanese manufacturer of foam radio controlled aircraft and accessories , including their own line of electric motors , servos , radio systems and gyros .
+1 In the U.S. , the company is known as Grand Wing System with headquarters in City of Industry , California .
+2 GWS was founded in 1993 and has quickly risen to become one of the leading manufacturers of RC products with sales in 2004 of more than US$ 12,000,000 .
+3 The company designs and manufactures all of its own products in their own factories in both Taiwan and China , while mainly in China by now .
+4 This allows GWS to be an original equipment manufacturer as well , with custom tooling and development available .
+5 GWS USA , LLC was established in January 2004 to improve distribution of GWS products in North America .
+6 The division handles sales , warranty , claims and partial repairs for the entire North American market as well .
+7 GWS headquarters in Taiwan and subsidiary GWS China take care of claims for the rest of the world .
+Grand Wing Servo-Tech|2,10,21|3 U.S., North America, continent, [5] （7）无法得出  需要外部知识才能得到这个关系
+Grand Wing Servo-Tech|2,10,12|4 U.S., North America, part of, [5] （7）无法得出
+Grand Wing Servo-Tech|10,2,11|7 North America, U.S., has part, [5] （7）无法得出
+
+0 Houshang Seyhoun , ( ) ( August 22 , 1920 – May 26 , 2014 ) was an Iranian architect , sculptor , painter , scholar and professor .
+1 He studied fine arts at the École nationale supérieure des Beaux - Arts in Paris , and earned a degree in architecture from University of Tehran .
+2 Seyhun is noted specially for his innovative and creative architectural design .
+3 His architectural legacy includes countless monuments and over one thousand private villas .
+4 After the Iranian Revolution he moved to Vancouver and lived in exile until his death .
+5 Seyhoon became famous for his design work in the 1950s in Iran , including : Tehran 's Central Railway Station and tombs of scientific / literary figures ( such as the Avicenna Mausoleum in Hamadan ) .
+6 He has been a faculty member of Tehran University 's College of Architecture , where he also served as Dean of the College of Fine Arts ( Beaux arts ) of Tehran University for six years .
+Hooshang Seyhoun|13,3,1|14 Avicenna Mausoleum, Iranian, country, [5] （1）句内分析
+Hooshang Seyhoun|6,3,1|16 University of Tehran, Iranian, country, [5] （7）无法得出
+Hooshang Seyhoun|6,11,2|15 University of Tehran, Tehran, located in the administrative territorial entity, [] （1）句内分析
+Hooshang Seyhoun|0,6,43|19 Houshang Seyhoun, University of Tehran, employer, [0, 6] （7）无法得出
+Hooshang Seyhoun|17,11,29|21 Tehran University, Tehran, headquarters location, [] （7）无法得出
+Hooshang Seyhoun|0,17,25|5 Houshang Seyhoun, Tehran University, educated at, [0, 1] （7）无法得出  需要判断 Tehran University  和 University of Tehran 是否是同一个实体？
+Hooshang Seyhoun|0,9,37|22 Houshang Seyhoun, Vancouver, place of death, [0, 4]  （2）指代分析 he => Houshang Seyhoun
+Hooshang Seyhoun|13,14,44|13 Avicenna Mausoleum, Hamadan, location, [5]  （1）句内分析
+Hooshang Seyhoun|3,14,4|11 Iranian, Hamadan, contains administrative territorial entity, [5]  （7）无法得出
+Hooshang Seyhoun|13,14,2|12 Avicenna Mausoleum, Hamadan, located in the administrative territorial entity, [5] （1）句内分析
+Hooshang Seyhoun|0,17,43|4 Houshang Seyhoun, Tehran University, employer, [0, 6] （2）指代分析 He => Houshang Seyhoun
+Hooshang Seyhoun|6,11,29|20 University of Tehran, Tehran, headquarters location, [] （7）无法得出
+Hooshang Seyhoun|17,11,2|17 Tehran University, Tehran, located in the administrative territorial entity, [] （1）句内分析
+
+0 IBM Research – Brazil is one of twelve research laboratories comprising IBM Research , its first in South America .
+1 It was established in June 2010 , with locations in São Paulo and Rio de Janeiro .
+2 Research focuses on Industrial Technology and Science , Systems of Engagement and Insight , Social Data Analytics and Natural Resources Solutions .
+3 The new lab , IBM 's ninth at the time of opening and first in 12 years , underscores the growing importance of emerging markets and the globalization of innovation .
+4 In collaboration with Brazil 's government , it will help IBM to develop technology systems around natural resource development and large - scale events such as the 2016 Summer Olympics .
+5 Engineer and associate lab director Ulisses Mello explains that IBM has four priority areas in Brazil : " The main area is related to natural resources management , involving oil and gas , mining and agricultural sectors .
+6 The second is the social data analytics segment that comprises the analysis of data generated from social networking sites [ such as Twitter or Facebook ] , which can be applied , for example , to financial analysis .
+7 The third strategic area is nanotechnology applied to the development of the smarter devices for the intermittent production industry .
+8 This technology can be applied to , for example , blood testing or recovering oil from existing fields .
+9 And the last one is smarter cities . "
+IBM Research – Brazil|0,2,68|0 IBM Research – Brazil, IBM Research, parent organization, [0]  （1）句内分析
+IBM Research – Brazil|2,7,68|3 IBM Research, IBM, parent organization, [0] （6）标签重复  与第0条标签重复了。 IBM => IBM Research
+IBM Research – Brazil|2,7,12|9 IBM Research, IBM, part of, [0] （1）句内分析
+IBM Research – Brazil|2,0,72|2 IBM Research, IBM Research – Brazil, subsidiary, [0]  （1）句内分析
+
+0 Jeanne Thérèse du Han de Martigny ( 30 October 1707 in Lunéville – 7 May 1748 in Nancy ) was born and baptized the same day in Lunéville , in the duchy of Lorraine , now part of France .
+1 She was the daughter of Philippe - Louis du Han , comte de Martigny ( 1678 – 1733 ) and his wife Catherine Françoise de Roquefeuil de Puydebar ( c.1680 – 1764 ) .
+2 The Du Han de Martigny were an important noble family of Lorraine , with estates in the north of the duchy .
+3 Louis - Philippe held posts as conseiller d'état , Chamberlain and Grand Veneur under Duke Léopold I , and his daughters were among the court beauties .
+4 In 1731 , Jeanne - Thérèse was maid of honour to the Dowager Duchess and Regent of Lorraine , Léopold 's widow .
+5 After the outbreak of the War of the Austrian Succession , Granville Elliott spent most of his time away fighting .
+6 Jeanne Thérèse and her husband Granville appear regularly in the Madame de Graffigny correspondence .
+Jeanne Thérèse du Han|2,5,2|1 Lunéville, Lorraine, located in the administrative territorial entity, [0, 2, 4]   evidence标注错误，其实通过句子0即可 （1）句内分析
+Jeanne Thérèse du Han|2,5,2|21 Lunéville, Lorraine, located in the administrative territorial entity, [0, 2, 4] （6）标签重复
+Jeanne Thérèse du Han|14,6,1|4 Lorraine, France, country, [0, 2, 4] evidence给出错误 （1）句内分析
+Jeanne Thérèse du Han|14,6,1|9 Lorraine, France, country, [0] （1）句内分析
+Jeanne Thérèse du Han|10,7,26|7 Catherine Françoise de Roquefeuil de Puydebar, Philippe - Louis du Han, spouse, [1] （1）句内分析
+Jeanne Thérèse du Han|7,10,26|17 Philippe - Louis du Han, Catherine Françoise de Roquefeuil de Puydebar, spouse, [1]  （1）句内分析
+Jeanne Thérèse du Han|2,14,2|1 Lunéville, Lorraine, located in the administrative territorial entity, [0, 2, 4]   evidence标注错误，其实通过句子0即可 （1）句内分析
+Jeanne Thérèse du Han|2,14,2|21 Lunéville, Lorraine, located in the administrative territorial entity, [0, 2, 4] （6）标签重复
+Jeanne Thérèse du Han|14,2,29|2 Lorraine, Lunéville, headquarters location, [0, 2, 4] （7）无法得出
+Jeanne Thérèse du Han|21,0,26|20 Granville Elliott, Jeanne Thérèse du Han de Martigny, spouse, [5, 6] （2）指代分析
+Jeanne Thérèse du Han|14,6,2|3 Lorraine, France, located in the administrative territorial entity, [0, 2, 4]  evidence标注错误（1）句内分析
+Jeanne Thérèse du Han|14,6,2|8 Lorraine, France, located in the administrative territorial entity, [0] （6）标签重复
+Jeanne Thérèse du Han|6,14,4|5 France, Lorraine, contains administrative territorial entity, [0, 2, 4] （1）句内分析
+Jeanne Thérèse du Han|6,14,4|6 France, Lorraine, contains administrative territorial entity, [0] （6）标签重复 与上面的结果重复
+Jeanne Thérèse du Han|0,21,26|13 Jeanne Thérèse du Han de Martigny, Granville Elliott, spouse, [5, 6] （2）指代分析 Granville => Granville Elliott
+
+0 Johan Gottlieb Gahn ( 19 August 1745 – 8 December 1818 ) was a Swedish chemist and metallurgist who discovered manganese in 1774 .
+1 Gahn studied in Uppsala 1762 – 1770 and became acquainted with chemists Torbern Bergman and Carl Wilhelm Scheele .
+2 1770 he settled in Falun , where he introduced improvements in copper smelting , and participated in building up several factories , including those for vitriol , sulfur and red paint .
+3 He was the chemist for The Swedish Board of Mines Bergskollegium from 1773 – 1817 .
+4 Gahn was however very reluctant to publish his scientific findings himself , but freely communicated them to Bergman and Scheele .
+5 One of Gahn 's discoveries was that manganese dioxide could be reduced to manganese metal using carbon , becoming the first to isolate this element in its metal form .
+6 In 1784 , Gahn was elected a member of the Royal Swedish Academy of Sciences .
+7 He also made a managerial career in Swedish mining .
+Johan Gottlieb Gahn|6,3,1|6 Uppsala, Swedish, country, [0, 1]  （3）需要推导
+Johan Gottlieb Gahn|11,3,1|0 Falun, Swedish, country, [0, 2] （3）需要推导
+
+0 Julian Reinard ( born 5 March 1983 ) is a German footballer .
+1 He first appeared in the German Bundesliga on 21 March 2004 while SC Freiburg 's first and second keepers had been injured .
+2 A year later media and trainer looked upon him as the future number one of Freiburg , but his disastrous effort during a 0–7 defeat aGDGNst Bayern Munich and the following massive public criticism terminated these ambitions .
+3 While plying his trade at Hakoah Amidar / Ramat Gan on 23 October 2006 he became the first German footballer ever to play a professional match in Israel .
+4 Due to problems with his groin he quit Ramat Gan and , after a brief spell at FC Wil , is currently without a team .
+Julian Reinard|3,2,1|6 Bundesliga, German, country, [1] （1）句内分析
+Julian Reinard|5,3,40|7 SC Freiburg, Bundesliga, league, [1] （1）句内分析
+
+0 Kurt Tucholsky (; 9 January 1890 – 21 December 1935 ) was a German - Jewish journalist , satirist , and writer .
+1 He also wrote under the pseudonyms Kaspar Hauser ( after the historical figure ) , Peter Panter , Theobald Tiger and Ignaz Wrobel .
+2 Born in Berlin - Moabit , he moved to Paris in 1924 and then to Sweden in 1929 .
+3 Tucholsky was one of the most important journalists of the Weimar Republic .
+4 As a politically engaged journalist and temporary co - editor of the weekly magazine Die Weltbühne he proved himself to be a social critic in the tradition of Heinrich Heine .
+5 He was simultaneously a satirist , an author of satirical political revues , a songwriter and a poet .
+6 He saw himself as a left - wing democrat and pacifist and warned aGDGNst anti - democratic tendencies – above all in politics , the military and justice – and the threat of National Socialism .
+7 His fears were confirmed when the Nazis came to power in January 1933 .
+8 In May of that year he was among the authors whose works were banned as " un - German " , and burned ; he was also among the first authors and intellectuals whose German citizenship was revoked .
+Kurt Tucholsky|0,7,69|2 Kurt Tucholsky, Paris, work location, [2] （7）无法得出
+Kurt Tucholsky|0,12,43|5 Kurt Tucholsky, Die Weltbühne, employer, [0, 4]  （2）指代分析 he => Kurt Tucholsky
+Kurt Tucholsky|11,16,71|7 Weimar Republic, January 1933, dissolved, abolished or demolished, [8, 3, 7]  （7）无法得出
+Kurt Tucholsky|5,11,1|6 Berlin, Weimar Republic, country, [2, 3] （3）需要推导   这个人出生在Berlin，同时这个人是 Weimar Republic 的著名旅行家，所以Berlin 也在Weimar Republic
+
+0 Live in New York was a 2-CD live album released by performance artist Laurie Anderson on Nonesuch Records in 2002 .
+1 It was her ninth album of new recordings released since 1982 .
+2 The front cover of the CD has the title Live at Town Hall , New York City September 19–20 , 2001 , however the official title of the album is just Live in New York .
+3 Recorded less than 10 days after the September 11 , 2001 , attacks on New York City , the album was produced during a tour Anderson gave of the United States in which she performed a mixture of older pieces from earlier in her career and newer works , including songs from her then - recent album Life on a String , as well as earlier albums such as United States Live , Big Science , Bright Red , Home of the Brave and Strange Angels .
+4 Following so close to the attacks , Anderson makes several statements about them in her recognizable style .
+5 The performance is highlighted by a performance of " O Superman , " the song that launched Anderson to stardom in 1981 and that contains lyrics that can — in retrospect — be seen to relate to the terrorist attacks .
+6 One song , " Progress " , is a retitled performance of the song " The Dream Before " which Anderson debuted in her 1986 short film What You Mean We ?
+7 and later featured on Strange Angels .
+Live in New York (Laurie Anderson album)|16,17,5|11 O Superman, 1981, publication date, [5]  （7）无法得出
+Live in New York (Laurie Anderson album)|22,1,9|0 What You Mean We, Laurie Anderson, cast member, [0, 6] （2）指代分析  her => Laurie Anderson
+Live in New York (Laurie Anderson album)|16,2,10|10 O Superman, Nonesuch Records, record label, [0, 5]  （7）无法得出
+Live in New York (Laurie Anderson album)|23,1,6|2 Strange Angels, Laurie Anderson, performer, [0, 6, 7] （8）理解语义  => 一句话被断成两句话了，导致出现了理解困难
+
+0 " Lookin Ass " ( originally titled " Lookin Ass Nigga " ) is a song by American rapper and singer Nicki Minaj .
+1 It was produced by Detail and Choppa Boi .
+2 It was recorded by Minaj for the Young Money Entertainment compilation album ( 2014 ) .
+3 The music video for the track was released on February 14 , 2014 .
+4 The track is a hip hop song whose lyrics criticize stereotypical behaviors commonly associated with men .
+5 Its cover also generated controversy for placing an image of activist Malcolm X , next to the derogatory term " nigga " .
+6 On March 11 , 2014 , " Lookin Ass " was serviced to urban contemporary radio in the United States as Young Money : Rise of an Empires third official single .
+7 It was sent to US rhythmic radio stations on March 18 , 2014 , two weeks after its predecessor , " Trophies " .
+Lookin Ass|0,7,5|5 Lookin Ass, February 14, 2014, publication date, [0, 3] （2）指代分析  The music => Lookin Ass
+
+0 Low Pass is an unincorporated community in Lane County , Oregon , United States , on the Long Tom River , east of Blachly and west of Cheshire .
+1 The settlement is centered on a small pullout on Oregon Route 36 with a gas station / convenience store and a diner that serves as an unofficial community center for rural residents .
+2 The nearest recycling & waste facility is the Low Pass Transfer Station
+3 The settlement is named for its location on a slight rise approaching the foothills of the Coast Range mountains , in contrast to the nearby mountain pass High Pass .
+4 Much of the land west of Low Pass consists of old - growth forest owned by the Bureau of Land Management .
+5 The community has also been known as " Long Tom Station " after the nearby river ; the name Low Pass was made official by a United States Board on Geographic Names decision of 1985 .
+Low Pass, Oregon|11,3,24|11 Bureau of Land Management, United States, applies to jurisdiction, [] （7）无法得出
+
+0 The memogate controversy ( also Mullen memo controversy ) revolves around a memorandum ( addressed to Admiral Mike Mullen ) ostensibly seeking help of the Obama administration in the wake of the Osama bin Laden raid to avert a military takeover of the civilian government in Pakistan , as well as assisting in a civilian takeover of the government and military apparatus .
+1 The memo was delivered in May 2011 ; Mansoor Ijaz wrote a Financial Times article in October 2011 bringing initial public attention to the affair .
+2 The memo , which at first was questioned to even exist , was published in November , leading to the resignation of Ambassador Haqqani and the continuing Pakistani Supreme Court investigation .
+3 Central actors in the plot include Pakistani - American businessman Mansoor Ijaz , who alleged that long - time friend and former Pakistan Ambassador to the United States Husain Haqqani asked him to deliver a confidential memo asking for US assistance .
+4 The memo is alleged to have been drafted by Haqqani at the behest of President of Pakistan Asif Ali Zardari .
+5 The memo was delivered to Mike Mullen through then National Security Advisor James L. Jones .
+6 The Supreme Court of Pakistan has opened a broader inquiry into the origins , credibility and purpose of the memo .
+7 On 19 April 2012 a petition was submitted in the Supreme Court to arrest former Pakistan ambassador to US Husain Haqqani through Interpol for his refusal to return to Pakistan .
+8 On 12 June the supreme court commission released its findings and found that after testimony by all parties and verifying the forensic results of Ijaz 's BlackBerry conversations with Haqqani it was " incontrovertibly established " that Husain Haqqani had written the memo and was being called back to Pakistan to face likely charges of treason .
+Memogate (Pakistan)|14,11,1|8 National Security, US, country, [3, 5, 7] （7）无法得出
+Memogate (Pakistan)|15,14,91|4 James L. Jones, National Security, position held, [5] （1）句内分析
+Memogate (Pakistan)|15,11,3|3 James L. Jones, US, country of citizenship, [3, 5]  （7）无法得出
+Memogate (Pakistan)|12,11,3|0 Mansoor Ijaz, US, country of citizenship, [3]  （1）句内分析
+Memogate (Pakistan)|12,11,3|6 Mansoor Ijaz, US, country of citizenship, [1, 3] （6）标签重复
+Memogate (Pakistan)|6,11,3|0 Mansoor Ijaz, US, country of citizenship, [3]  （1）句内分析
+Memogate (Pakistan)|6,11,3|6 Mansoor Ijaz, US, country of citizenship, [1, 3] （6）标签重复
+Memogate (Pakistan)|16,4,1|5 Supreme Court of Pakistan, Pakistani, country, [8, 6, 7] （1）句内分析
+
+0 " More " is a song by The Sisters of Mercy , from their album Vision Thing .
+1 It was the first single from the album , reaching number one on the Billboard Modern Rock Tracks chart for five weeks , starting 15 December 1990 .
+2 The song was co - written and co - produced by Andrew Eldritch and Jim Steinman .
+3 It was covered by Shaaman on their album Reason , and Gregorian for their album The Dark Side .
+4 Steinman produced a cover of the song , by Mike Vogel and Erika Christensen , for the soundtrack of the MTV film Wuthering Heights .
+5 He also used the song 's main guitar riff and the " I need all the love I can get " vocal in a song for his musical Batman .
+6 The song has also been re - recorded by Meat Loaf for his 2016 album Braver Than We Are .
+More (The Sisters of Mercy song)|2,6,57|4 Vision Thing, Andrew Eldritch, producer, [0, 2] （2）指代分析 The song 指代 More
+More (The Sisters of Mercy song)|9,1,6|5 Reason, Sisters of Mercy, performer, [0, 3] （4）标签错误
+More (The Sisters of Mercy song)|2,5,5|3 Vision Thing, 15 December 1990, publication date, [0, 1] （2）指代分析 It  指的是More，但是这里给出的subject 确实 Vision Thing
+
+0 Edward P. " Ned " McEvoy ( born 1886 ) was an Irish hurler who played for the Dublin and Laois senior teams .
+1 Born in Abbeyleix , County Laois , McEvoy first played competitive hurling and Gaelic football in his youth .
+2 He arrived on the inter - county scene when he first linked up with the Laois senior team before later joining the Dublin senior team before returning to Laois .
+3 McEvoy was a regular member of the starting fifteen , and won one All - Ireland medal and two Leinster medals .
+4 He was an All - Ireland runner - up on one occasion .
+5 At club level McEvoy won several championship medals as a dual player with Abbeyleix .
+6 He also won a championship medal with the Thomas Davis club .
+Ned McEvoy|5,4,2|9 Abbeyleix, Laois, located in the administrative territorial entity, [0, 1, 2, 3, 4]  （1）句内分析 这里的Laois就是指 Laois County
+Ned McEvoy|13,10,1|10 Abbeyleix, All - Ireland, country, [0, 1, 2, 3, 4] （3）需要推导
+Ned McEvoy|13,10,1|24 Abbeyleix, All - Ireland, country, [0, 3, 4, 5] （7）无法得出
+Ned McEvoy|10,4,4|14 All - Ireland, Laois, contains administrative territorial entity, [0, 2, 3, 4] （7）无法得出
+Ned McEvoy|4,10,2|5 Laois, All - Ireland, located in the administrative territorial entity, [0, 2, 3, 4]  （7）无法得出
+Ned McEvoy|4,10,2|16 County Laois, All - Ireland, located in the administrative territorial entity, [0, 1, 2, 3, 4] （7）无法得出
+Ned McEvoy|6,2,2|18 County Laois, Irish, located in the administrative territorial entity, [0, 1, 2, 3, 4] （6）标签重复 与上面的Laois重复了 
+Ned McEvoy|5,10,1|10 Abbeyleix, All - Ireland, country, [0, 1, 2, 3, 4] （3）需要推导
+Ned McEvoy|5,10,1|24 Abbeyleix, All - Ireland, country, [0, 3, 4, 5] （7）无法得出
+Ned McEvoy|4,10,1|6 Laois, All - Ireland, country, [0, 2, 3, 4] （7）无法得出
+Ned McEvoy|4,10,1|17 County Laois, All - Ireland, country, [0, 1, 2, 3, 4] （7）无法得出
+Ned McEvoy|6,10,2|16 County Laois, All - Ireland, located in the administrative territorial entity, [0, 1, 2, 3, 4] （7）无法得出
+Ned McEvoy|10,3,4|13 All - Ireland, Dublin, contains administrative territorial entity, [0, 2, 3, 4]  （7）无法得出
+Ned McEvoy|2,4,4|21 Irish, Laois, contains administrative territorial entity, [0, 2, 3, 4] （3）需要推导
+Ned McEvoy|0,10,3|2 Edward P. "Ned" McEvoy, All - Ireland, country of citizenship, [0, 3, 4] （2）指代分析 mention linking
+Ned McEvoy|2,3,4|20 Irish, Dublin, contains administrative territorial entity, [0, 2, 3, 4] （7）无法得出
+Ned McEvoy|6,10,1|17 County Laois, All - Ireland, country, [0, 1, 2, 3, 4] （7）无法得出
+Ned McEvoy|6,2,1|19 County Laois, Irish, country, [0, 1, 2, 3, 4] （6）标签重复 ，同上
+Ned McEvoy|3,10,1|3 Dublin, All - Ireland, country, [0, 2, 3, 4]  （3）需要推导
+Ned McEvoy|10,6,4|15 All - Ireland, County Laois, contains administrative territorial entity, [0, 1, 2, 3, 4] （7）无法得出
+Ned McEvoy|4,2,2|7 Laois, Irish, located in the administrative territorial entity, [0, 2, 3, 4] （3）需要推导
+Ned McEvoy|4,2,2|18 County Laois, Irish, located in the administrative territorial entity, [0, 1, 2, 3, 4] （6）标签重复 与上面的Laois重复了 
+
+0 Norvelt is a census - designated place in Mount Pleasant Township , Westmoreland County , Pennsylvania , United States .
+1 The community was part of the Calumet - Norvelt CDP for the 2000 census , but was split into the two separate communities of Calumet and Norvelt for the 2010 census .
+2 Calumet was a typical company town , locally referred to as a " patch " or " patch town " , built by a single company to house coal miners as cheaply as possible .
+3 On the other hand , Norvelt was created during the depression by the federal government of the United States as a model community , intended to increase the standard of living of laid - off coal miners .
+4 Award winning writer Jack Gantos was born in the village and wrote a book about it
+Norvelt, Pennsylvania|5,3,2|12 Calumet - Norvelt CDP, Pennsylvania, located in the administrative territorial entity, [0, 1] （3）需要推导 Norvelt 在Pennsylvania，同时它又 part of the Calumet - Norvelt CDP ，所以能推导出 Calumet - Norvelt CDP in  Pennsylvania 
+Norvelt, Pennsylvania|10,3,14|8 Jack Gantos, Pennsylvania, place of birth, [0, 4] （3）需要推导   只给 Jack Gantos 出生在 Pennsylvania 是不是不够？
+
+0 The Old Loggers Path ( OLP ) is a loop hiking trail in Lycoming County in north - central Pennsylvania in the United States .
+1 Marked with international orange blazes , the Old Loggers Path is located entirely within the Loyalsock State Forest .
+2 Most hikers take two and a half to three days and two nights to complete the Old Loggers Path , making it popular for weekend hikes .
+3 Highlights of the trail include waterfalls , several scenic streams and creeks ( most of which do not have bridges ) , and panoramic vistas .
+4 The land the Old Loggers Path is on was initially owned and clear - cut by the Union Tanning Company , followed by the Central Pennsylvania Lumber Company .
+5 The trail chiefly follows the grades of abandoned logging roads and railroads , and its trailhead is the lumber ghost town of Masten .
+6 Parts of the trail were made by the Civilian Conservation Corps , which operated a camp in the area from 1933 to 1941 .
+Old Loggers Path|9,2,2|6 Masten, Pennsylvania, located in the administrative territorial entity, [0, 5] （3）需要推导
+
+0 The following outline is provided as an overview of and topical guide to South Sudan :
+1 South Sudan – landlocked country in east - central Africa that is part of the United Nations subregion of Eastern Africa .
+2 It previously known as Southern Sudan .
+3 It is located south of Sudan , and includes the vast swamp region of the Sudd , formed by the White Nile and known locally as the Bahr al Jabal .
+4 South Sudan became an independent state on 9 July 2011 , following a referendum that passed with 98.83 % of the vote .
+5 It is a United Nations member state , a member state of the African Union , and a member state of the Intergovernmental Authority on Development .
+6 In July 2012 , South Sudan signed the Geneva Conventions .
+7 Its current capital is Juba , which is also its largest city .
+8 The capital city is planned to be changed to the more centrally located Ramciel in the future .
+Outline of South Sudan|4,0,1|7 Sudan, South Sudan, country, [0, 1, 2, 3, 4, 6]  （7）无法得出
+Outline of South Sudan|9,1,21|12 African Union, Africa, continent, [1, 5] （3）需要推导
+Outline of South Sudan|0,1,12|1 South Sudan, Africa, part of, [1] （1）句内分析
+
+0 The Palestinian National Theatre or El - Hakawati Theatre ( ) is a Palestinian - owned theatre in Jerusalem 's American Colony neighbourhood , near New Orient House .
+1 The theatre has been serving to actively encourage and promote Palestinian artistic and cultural activities and collaborates with the Palestinian ministry of culture , several United Nations organisations , and a wide range of local and international NGOs .
+2 In 1989 , guest performance by the El - Hakawati Theatre at The Public Theater , New York , was cancelled by Joseph Papp , as he said that he was afraid that the play would " " offend " Jews who " constitute a high proportion of the theater audience in any city , but especially in New York . " "
+Palestinian National Theatre|5,3,2|1 New Orient House, Jerusalem, located in the administrative territorial entity, [0] （1）句内分析
+Palestinian National Theatre|1,3,2|2 El-Hakawati Theatre, Jerusalem, located in the administrative territorial entity, [0] （1）句内分析
+Palestinian National Theatre|0,3,2|0 Palestinian National Theatre, Jerusalem, located in the administrative territorial entity, [0]   （1）句内分析
+
+0 Paul Charles Morphy ( June 22 , 1837   – July 10 , 1884 ) was an American chess player .
+1 He is considered to have been the greatest chess master of his era and an unofficial World Chess Champion .
+2 A chess prodigy , he was called " The Pride and Sorrow of Chess " because he had a brilliant chess career but retired from the game while still young .
+3 Bobby Fischer ranked him among the ten greatest players of all time , and described him as " perhaps the most accurate player who ever lived " .
+4 Morphy was born in New Orleans to a wealthy and distinguished family .
+5 He learned to play chess by simply watching games between his father and uncle .
+6 His family soon recognized the boy 's talent and encouraged him to play at family gatherings , and by the age of nine he was considered to be one of the best players in the city .
+7 At just twelve years of age , Morphy defeated visiting Hungarian master Johann Löwenthal in a match of three games .
+8 After receiving his degree in 1857 , Morphy was not yet of legal age to practice law and found himself with free time .
+9 At his uncle 's urging , he accepted an invitation to play at the First American Chess Congress in New York City .
+10 After winning the tournament , which included strong players such as Alexander Meek and Louis Paulsen , Morphy was hailed as the chess champion of the United States and stayed in New York playing chess through 1857 , winning the vast majority of his games .
+11 In 1858 , Morphy traveled to Europe to play European Champion Howard Staunton .
+12 Morphy played almost every strong player in Europe , usually winning easily .
+13 The match with Staunton never materialized , but Morphy was acclaimed by most in Europe as the world 's best player .
+14 Returning to the United States in triumph , Morphy toured the major cities playing chess on his way back to New Orleans .
+15 By 1859 , on returning to New Orleans , Morphy declared he was retiring from chess to begin his law career .
+16 However , Morphy was never able to establish a successful law practice and ultimately lived a life of idleness , living off his family 's fortune .
+17 Despite appeals from his chess admirers , Morphy never returned to the game , and died in 1884 from a stroke at the age of 47 .
+Paul Morphy|12,11,3|5 Johann Löwenthal, Hungarian, country of citizenship, [7] （1）句内分析
+Paul Morphy|15,3,1|11 First American Chess Congress, American, country, [] （1）句内分析
+Paul Morphy|16,3,13|7 New York City, American, country of origin, [9, 10]  （7）无法得出
+Paul Morphy|17,15,32|9 Alexander Meek, First American Chess Congress, participant of, [9, 10] （3）需要推导  分析过程同上 
+
+0 Pointr is a startup company based in London specialized in indoor positioning and navigation utilising iBeacons , which are Bluetooth Low Energy devices formalised by Apple Inc. Pointr have created a GPS - like experience with true position and turn - by - turn navigation that is supported by most modern smartphones operating on both Android and iOS .
+1 Analytics and messaging modules can be added on to help communicate with users and understand venue usage respectively .
+2 The features are provided through a software package ( SDK ) which aims to improve user experience whilst connecting the online and offline worlds .
+3 Many of the features are available without an internet connection , including sending messages between users with a form of Mesh networking , however for intelligent offers and live analytics then an internet connection is required .
+4 The markets where the technology is most frequently used are retail , exhibition centres , airports and museums , but there are a number of uses in hospitals , warehouses , offices and entertainment venues as well .
+5 The majority of software development is done in their office in Istanbul , with specialist modules created in London .
+6 The technology is commonly used in permanent installations where the SDK is offered with a license fee model , however some installations have been temporary and hence one - off payments have been used .
+
+0 The Portland Golf Club is a private golf club in the northwest United States , in suburban Portland , Oregon .
+1 It is located in the unincorporated Raleigh Hills area of eastern Washington County , southwest of downtown Portland and east of Beaverton .
+2 PGC was established in the winter of 1914 , when a group of nine businessmen assembled to form a new club after leaving their respective clubs .
+3 The present site was chosen due to its relation to the Spokane , Portland and Seattle Railway 's interurban railroad line with frequent passenger service to the site because automobiles and roads were few .
+4 The PGA Championship , then a match play competition , was held at the club in 1946 .
+5 Ben Hogan , age 34 , overcame an early deficit in the 36-hole final match on August 25 to win 6 & 4 ; it was the first of his nine major titles .
+6 He had won the Portland Open the previous year in early autumn with a score of The following year , PGC hosted the Ryder Cup matches of 1947 , the first renewal in a decade , due to World War II .
+7 The U.S. team defeated Great Britain 11 to 1 in wet conditions in early November .
+Portland Golf Club|11,1,1|14 PGA Championship, United States, country, [0, 4]  （3）需要推导【PGA Championship 在这个club举行，这个club在美国，所以这个PGA Championship 也在美国】
+Portland Golf Club|5,4,4|12 Washington County, Raleigh Hills, contains administrative territorial entity, [1] （1）句内分析
+
+0 Queen of Housewives (; also known as My Wife Is a Superwoman ) is a 2009 South Korean romantic comedy television series , starring Kim Nam - joo , Oh Ji - ho , Yoon Sang - hyun , Lee Hye - young , Choi Cheol - ho , and Sunwoo Sun .
+1 It depicts the life of " naejo , " housewives who devote their entire lives to their husbands ' success , but with a more comedic and aggressive twist .
+2 It aired on MBC from March 16 to May 19 , 2009 on Mondays and Tuesdays at 21:55 for 20 episodes .
+3 The hit drama topped the ratings chart during its run , and created new trends among married women in terms of fashion and makeup .
+4 Actress Kim Nam - joo received numerous accolades for her acting comeback after an 8-year hiatus , and the series also served as the breakout vehicle of actor Yoon Sang - hyun .
+Queen of Housewives|6,2,3|3 Lee Hye-young, South Korean, country of citizenship, [0] （1）句内分析
+Queen of Housewives|3,2,3|0 Kim Nam-joo, South Korean, country of citizenship, [0] （1）句内分析  同时也有推导的意味。这部剧是South Korean，同时由谁谁谁出演，所以能得到这些演员的国家是South Korean
+Queen of Housewives|7,2,3|4 Choi Cheol-ho, South Korean, country of citizenship, [0] （1）句内分析
+Queen of Housewives|0,1,83|8 Queen of Housewives, 2009, end time, [0, 2] （4）标签错误
+Queen of Housewives|5,2,3|2 Yoon Sang-hyun, South Korean, country of citizenship, [0] （1）句内分析
+Queen of Housewives|4,2,3|1 Oh Ji-ho, South Korean, country of citizenship, [0] （1）句内分析
+Queen of Housewives|8,2,3|17 Sunwoo Sun, South Korean, country of citizenship, [0] （1）句内分析
+Queen of Housewives|0,1,62|7 Queen of Housewives, 2009, start time, [0, 2]  （1）句内分析
+
+0 The quokka ( , Setonix brachyurus ) , the only member of the genus Setonix , is a small macropod about the size of a domestic cat .
+1 Like other marsupials in the macropod family ( such as kangaroos and wallabies ) , the quokka is herbivorous and mainly nocturnal .
+2 Quokkas are found on some smaller islands off the coast of Western Australia , particularly Rottnest Island , just off Perth , and also Bald Island near Albany , and in isolated scattered populations in forest and coastal heath between Perth and Albany .
+3 A small colony exists at the eastern limit of their range in a protected area of Two Peoples Bay Nature Reserve , where they co - exist with the critically endangered Gilbert 's potoroo .
+Quokka|0,4,4|4 Western Australia, Albany, contains administrative territorial entity, [2] （1）句内分析
+
+0 Robert Kingsbury Huntington ( 13 March 1921 – 5 June 1942 ) , was a naval aircrewman and member of Torpedo Squadron 8 ( or VT-8 ) .
+1 He was radioman / gunner to Ensign George Gay 's TBD Devastator aircraft .
+2 Along with his entire squadron , Huntington was shot down during the Battle of Midway , on 4–5 June 1942 .
+3 Born in Los Angeles , California , enlisted in the United States Navy 21 April 1941 .
+4 He served on board Lexington ( CV-2 ) and was rated aviation radioman third class before being transferred to Torpedo Squadron 8 on board Hornet ( CV-8 ) .
+5 He received the Distinguished Flying Cross for heroism and extraordinary achievement as rear gunner in a torpedo plane during an attack aGDGNst enemy Japanese forces in the Battle of Midway 4 June 1942 .
+6 Flying without fighter support and with insufficient fuel to return to their carrier , Huntington and his fellow crewmember pressed home their attack with utter disregard for their own personal safety , in the face of a tremendous antiaircraft barrage and overwhelming fighter opposition .
+7 Huntington was one of 29 from Torpedo Squadron 8 who gave their lives in this attack .
+Robert K. Huntington|6,7,83|12 Battle of Midway, 4–5 June 1942, end time, [2] （7）无法得出
+Robert K. Huntington|5,10,63|10 TBD Devastator, the United States Navy, operator, [0, 1] （3）需要推导  这里的evidence列举有误。TBD Devastator 是这个人的飞行器。这个人是美国海军，所以推导出 TBD Devastator 的操作者是 the United States Navy。 这个想推导出来太难了
+Robert K. Huntington|0,6,27|2 Robert Kingsbury Huntington, Battle of Midway, conflict, [2, 5, 6, 7]  （2）指代分析 实体链接 Huntington -> Robert Kingsbury Huntington
+Robert K. Huntington|12,10,63|8 Lexington, the United States Navy, operator, [0, 3, 4]  （3）需要推导 【太难了】  这个人在 Lexington 服役，这个人在 the United States，所以这个 Lexington 的 operator 是 the United States
+Robert K. Huntington|6,7,62|11 Battle of Midway, 4–5 June 1942, start time, [2] （7）无法得出 只是说他当天被击落，很难知道战役什么时候开始
+Robert K. Huntington|0,7,8|3 Robert Kingsbury Huntington, 4–5 June 1942, date of death, [0, 2] （4）标签错误
+Robert K. Huntington|13,10,63|9 Hornet, the United States Navy, operator, [0, 3, 4]  （3）需要推导  同上分析
+Robert K. Huntington|6,7,64|13 Battle of Midway, 4–5 June 1942, point in time, [2] （1）句内分析
+
+0 The Samsung Galaxy S ( Super Smart ) series is a line of high - end Android - powered mobile devices produced by Samsung Electronics , a division of Samsung from South Korea .
+1 The series consisted initially of smartphones and the first device , the Samsung Galaxy S , was announced in March 2010 and released for sale in June of that year .
+2 Since the introduction of the Samsung Galaxy Note in 2011 , the Galaxy S line has co - existed with the Galaxy Note line as being Samsung 's flagship smartphones .
+3 Samsung later expanded the Galaxy S line to tablet computers with the announcement of the Galaxy Tab S in June 2014 and released the next month .
+4 As of 2018 , the latest smartphones in the Galaxy S series are the Samsung Galaxy S9 and Samsung Galaxy S9 + , both released on 16 March 2018 , and the latest tablet is the Samsung Galaxy Tab S4 released on August 1 , 2018 .
+Samsung Galaxy S series|16,3,67|14 Galaxy Tab S4, Samsung Electronics, manufacturer, [0, 4] （8）理解语义
+Samsung Galaxy S series|10,3,67|6 Samsung Galaxy Note, Samsung Electronics, manufacturer, [0, 2]  （3）需要推导
+Samsung Galaxy S series|10,3,67|8 Galaxy Note, Samsung Electronics, manufacturer, [0, 2]  （3）需要推导
+Samsung Galaxy S series|8,10,55|18 Samsung Galaxy Note, Galaxy Note, series, [2]  （1）句内分析
+Samsung Galaxy S series|8,3,67|6 Samsung Galaxy Note, Samsung Electronics, manufacturer, [0, 2]  （3）需要推导
+
+0 Siberia Governorate ( ) was an administrative division ( a guberniya ) of the Tsardom of Russia and then the Russian Empire , which existed from 1708 until 1782 .
+1 Its seat was in Tobolsk ( initially spelt as Tobolesk ) .
+2 The governorate was located in the east of Russian Empire and bordered China in the south , Kazan Governorate in the southwest , and Archangelgorod Governorate in the northwest .
+3 In the north and the east , the governorate was limited by the seas of the Arctic and Pacific Oceans .
+4 In therms of the area , Siberia Governorate was by far the biggest among all the governorates , as it included areas in the Urals , Siberia , and the Russian Far East some of which were not yet even settled by Russians at the time .
+Siberia Governorate|0,2,1|8 Siberia Governorate, Russian Empire, country, [0, 2] （1）句内分析
+Siberia Governorate|5,2,2|1 Tobolsk, Russian Empire, located in the administrative territorial entity, [0, 1, 2] （3）需要推导
+Siberia Governorate|0,10,33|9 Siberia Governorate, Pacific Oceans, located in or next to body of water, [3]  （1）句内分析
+Siberia Governorate|0,4,71|4 Siberia Governorate, 1782, dissolved, abolished or demolished, [0] （1）句内分析
+Siberia Governorate|2,4,71|10 Russian Empire, 1782, dissolved, abolished or demolished, [0]  （4）标签错误 这个which 修饰的应该是Siberia Governorate 而不是 Russian Empire
+Siberia Governorate|5,2,1|2 Tobolsk, Russian Empire, country, [0, 1, 2] （3）需要推导
+Siberia Governorate|0,1,2|5 Siberia Governorate, Russia, located in the administrative territorial entity, [0]  （1）句内分析
+Siberia Governorate|0,2,2|7 Siberia Governorate, Russian Empire, located in the administrative territorial entity, [0, 2] evidence给出错误（1）句内分析
+
+0 Skai TV is a Greek free - to - air television network based in Piraeus .
+1 It is part of the Skai Group , one of the largest media groups in the country .
+2 It was relaunched in its present form on 1st of April 2006 in the Athens metropolitan area , and gradually spread its coverage nationwide .
+3 Besides digital terrestrial transmission , it is available on the subscription - based encrypted services of Nova and Cosmote TV .
+4 Skai TV is also a member of Digea , a consortium of private television networks introducing digital terrestrial transmission in Greece .
+5 At launch , Skai TV opted for dubbing all foreign language content into Greek , instead of using subtitles .
+6 This is very uncommon in Greece for anything except documentaries ( using voiceover dubbing ) and children 's programmes ( using lip - synced dubbing ) , so after intense criticism the station switched to using subtitles for almost all foreign shows .
+Skai TV|0,2,29|3 Skai TV, Piraeus, headquarters location, [0]  （1）句内分析
+Skai TV|0,5,29|5 Skai TV, Athens, headquarters location, [0, 2]  （7）无法得出  信息不足
+Skai TV|3,9,1|1 Skai Group, Greece, country, [0, 1, 4]  （3）需要推导
+
+0 Taiwanese expatriates and descendants in Vietnam consist largely of expatriate businessmen and their families .
+1 The Ho Chi Minh City branch of the Taipei - based Taiwan External Trade Development Council estimates that 20,000 people from Taiwan were living in Vietnam as of 2002 .
+2 According to statistics of the United Nations High Commissioner for Refugees , there are an estimated 3,000 women in Vietnam , formerly married to Taiwanese husbands , who have been left stateless after their divorces ; the women had given up Vietnamese nationality to naturalize as Republic of China citizens at the time of their marriage , but then returned to Vietnam following their divorces and gave up their Republic of China nationality in the process of applying for restoration of Vietnamese nationality .
+3 Their children , who hold only Republic of China nationality and have never previously been Vietnamese nationals , are ineligible to enter publicly supported schools in Vietnam .
+Taiwanese expatriates in Vietnam|10,1,1|11 Vietnamese, Vietnam, country, [0, 1, 2, 3] （7）无法得出
+Taiwanese expatriates in Vietnam|0,3,4|0 Taiwanese, Taipei, contains administrative territorial entity, [0, 1]  （7）无法得出
+Taiwanese expatriates in Vietnam|6,12,1|10 Taiwan, Republic of China, country, [1, 2, 3] （3）需要推导
+Taiwanese expatriates in Vietnam|12,6,88|13 Republic of China, Taiwan, territory claimed by, [1, 2, 3] （7）无法得出
+Taiwanese expatriates in Vietnam|2,1,2|3 Ho Chi Minh City, Vietnam, located in the administrative territorial entity, [1]  （7）无法得出
+Taiwanese expatriates in Vietnam|3,0,2|5 Taipei, Taiwanese, located in the administrative territorial entity, [0, 1, 2]  （7）无法得出
+Taiwanese expatriates in Vietnam|3,6,2|6 Taipei, Taiwan, located in the administrative territorial entity, [1] （1）句内分析
+Taiwanese expatriates in Vietnam|6,3,4|8 Taiwan, Taipei, contains administrative territorial entity, [1] （1）句内分析
+Taiwanese expatriates in Vietnam|12,3,4|12 Republic of China, Taipei, contains administrative territorial entity, [1, 2, 3] （3）需要推导
+Taiwanese expatriates in Vietnam|1,10,76|2 Vietnam, Vietnamese, ethnic group, [0, 1, 2, 3]  （7）无法得出
+Taiwanese expatriates in Vietnam|6,0,88|7 Taiwan, Taiwanese, territory claimed by, [0, 1, 2] （7）无法得出
+Taiwanese expatriates in Vietnam|6,12,88|9 Taiwan, Republic of China, territory claimed by, [1, 2, 3] （7）无法得出
+
+0 The Yorkshire Post is a daily broadsheet newspaper , published in Leeds in northern England .
+1 It covers the whole of Yorkshire as well as parts of north Derbyshire and Lincolnshire but goes beyond just local news and its masthead carries the slogan " Yorkshire 's National Newspaper " .
+2 Alongside The Scotsman it is one of the flagship titles owned by Johnston Press .
+3 Founded in 1754 , it is one of the oldest newspapers in the country .
+4 Its focus on international and national news gives it a wider focus than that usually associated with a provincial newspaper ; editions are available throughout the United Kingdom .
+5 It has satellite offices in Harrogate , Hull , Scarborough , Sheffield and York , as well as correspondents in Westminster and the City of London .
+6 The current editor is James Mitchinson .
+The Yorkshire Post|14,9,1|13 York, United Kingdom, country, [4, 5] （7）无法得出
+The Yorkshire Post|2,9,1|1 England, United Kingdom, country, [0, 4] （7）无法得出
+The Yorkshire Post|15,9,24|4 Westminster, United Kingdom, applies to jurisdiction, [4, 5] （7）无法得出
+The Yorkshire Post|0,8,15|16 The Yorkshire Post, 1754, inception, [0, 3]  （2）指代分析 it =》 The Yorkshire Post
+The Yorkshire Post|17,9,3|7 James Mitchinson, United Kingdom, country of citizenship, [4, 6]  （3）需要推导 这个报纸在 northern England（在United Kingdom），这个人是该报纸的主编，所以该人是的国籍是 United Kindom
+The Yorkshire Post|9,2,4|2 United Kingdom, England, contains administrative territorial entity, [0, 4] （7）无法得出
+The Yorkshire Post|2,9,2|0 England, United Kingdom, located in the administrative territorial entity, [0, 4] （7）无法得出  这条关系很难推导，因为文中的 United Kingdom并没有作为一个位置，国家概念出现过。 所以就需要一个常识知识，让模型知道这个 the United Kingdom 是个国家
+
+0 Urgut (; ) is a town in the Samarqand Region of Uzbekistan and the capital of Urgut District .
+1 It is known for the grove of plane trees , some of which are more than 1000 years old .
+2 Urgut is located in mountainous areas .
+3 Urgutlik ( also known as Urguti in Tajik ) people are a subgroup of ethnic Uzbeks who track their ancestry to people from a town of Urgut .
+4 There are almost 500,000 people who describe themselves as Urgutlik .
+5 Urgutlik people frequently use Tajik words in their daily conversation .
+6 Majority of the population speak Tajik and Uzbek .
+7 Urguti people are heavily involved in basic mercantile trading in their respective locations and in farming .
+8 In the town craftsmanship is also well - known which has been maintained traditionally throughout the centuries .
+9 Urgut 's biggest market with varied and relatively inexpensive merchandise attracts folks even from Samarkand , the capital of the Region .
+Urgut|11,1,79|9 Samarkand, Samarqand Region, capital of, [0, 9] （2）指代分析 同上
+Urgut|11,1,2|8 Samarkand, Samarqand Region, located in the administrative territorial entity, [0, 9]  （2）指代分析 代词 the Region 指的就是 Samarqand Region
+Urgut|3,0,70|7 Urgut District, Urgut, capital, [0] （1）句内分析
+Urgut|11,2,1|10 Samarkand, Uzbekistan, country, [0, 9] （3）需要推导
+Urgut|2,6,76|5 Uzbekistan, Uzbeks, ethnic group, [0, 3]  （7）无法得出
+Urgut|1,11,70|2 Samarqand Region, Samarkand, capital, [0, 9]  （2）指代分析 the Region => Samarqand Region
+Urgut|2,3,4|4 Uzbekistan, Urgut District, contains administrative territorial entity, [0] （1）句内分析
+Urgut|2,9,58|14 Uzbekistan, Uzbek, official language, [0, 3, 6] （7）无法得出
+Urgut|0,3,2|12 Urgut, Urgut District, located in the administrative territorial entity, [0, 3]  evidence标注错误 （1）句内分析
+Urgut|2,9,76|13 Uzbekistan, Uzbek, ethnic group, [0, 3, 6]  （7）无法得出
+
+0 Villanova Preparatory School is an Augustinian Catholic co - ed day and boarding school in the United States , located in the California town of Ojai .
+1 Sitting on more than 130 acres , Villanova 's campus has many athletic facilities , two dormitories , sports fields and trails , a gym , and tennis courts .
+2 The school is located in the Roman Catholic Archdiocese of Los Angeles , and is a member of the Augustinian Secondary Education Association .
+3 Established in October 1924 at the request of Bishop John Cantwell ( John Joseph Cantwell ) , Villanova was founded by Augustinians invited to California from Villanova , Pennsylvania to open parishes in the early 1920s .
+4 Villanova is a member of the Augustinian Secondary Education Association ( ASEA ) comprising eight secondary institutions in North America and over 100 schools worldwide .
+5 Villanova offers both a day and resident program and is the only co - ed Augustinian boarding school in the country .
+6 Villanova has a small chapel that holds mass every Sunday for both students and the public .
+7 In 2015 - 16 , student enrollment was 265 .
+8 Thirty - four percent of students are boarders , and represent 14 different countries .
+Villanova Preparatory School|14,2,2|3 Pennsylvania, the United States, located in the administrative territorial entity, [0]  （1）句内分析
+Villanova Preparatory School|14,2,2|10 Pennsylvania, the United States, located in the administrative territorial entity, [0, 3] （7）无法得出
+Villanova Preparatory School|11,2,3|9 John Cantwell, the United States, country of citizenship, [0, 3] （7）无法得出
+Villanova Preparatory School|7,2,1|13 Roman Catholic Archdiocese, the United States, country, [0, 2] （3）需要推导
+Villanova Preparatory School|14,2,1|4 Pennsylvania, the United States, country, [0] （1）句内分析
+Villanova Preparatory School|14,2,1|11 Pennsylvania, the United States, country, [0, 3] （7）无法得出
+
+0 Washington Place ( William Washington House ) is one of the first homes built by freed slaves after the Emancipation Proclamation of 1863 in Hampshire County , West Virginia , United States .
+1 Washington Place was built by William and Annie Washington in north Romney between 1863 and 1874 on land given to Annie by her former owner , Susan Blue Parsons of Wappocomo plantation .
+2 William Washington later acquired other properties on the hills north of Romney along West Virginia Route 28 and became the first African - American land developer in the state of West Virginia .
+3 One of his subdivisions is the " Blacks Hill " neighborhood of Romney , adjacent to the Washington Place homestead .
+4 Washington Place was bought and restored by Ralph W. Haines , a local attorney and historic preservationist .
+Washington Place (West Virginia)|6,5,3|7 William, United States, country of citizenship, [0, 1, 2] （6）标签重复  William 和 William Washington 是同一个人，但是这个entity出现了两次
+Washington Place (West Virginia)|7,5,3|8 Annie Washington, United States, country of citizenship, [0, 1, 2]  （3）需要推导
+Washington Place (West Virginia)|12,5,1|15 Wappocomo plantation, United States, country, [0, 1] （3）需要推导
+Washington Place (West Virginia)|11,5,3|14 Susan Blue Parsons, United States, country of citizenship, [0, 1] （3）需要推导
+Washington Place (West Virginia)|18,5,3|12 Ralph W. Haines, United States, country of citizenship, [0, 4]   （1）句内分析
+
+0 Wilhelm Lanzky - Otto ( January 30 , 1909 – April 13 , 1991 ) was a Danish - born horn player .
+1 He is credited with inspiring a generation of Scandinavian horn players .
+2 He was educated in Copenhagen as a pianist , organist and horn player .
+3 During his life he was principal horn in the Danish National Symphony Orchestra , the Royal Danish Orchestra , the Iceland Symphony Orchestra , the Gothenburg Symphony Orchestra , and the Royal Stockholm Philharmonic Orchestra .
+4 From 1932 till 1945 he was a member of Blæserkvintetten af 1932 .
+5 Later he worked in Reykjavík , Gothenburg and Stockholm .
+6 He and Philip Farkas are compared often because of their great talent for teaching .
+7 Both are well known among horn players in their areas of the world .
+8 His son , Ib Lanzky - Otto , is also a horn player .
+Wilhelm Lanzky-Otto|0,3,3|0 Wilhelm Lanzky-Otto, Danish, country of citizenship, [0] （1）句内分析
+Wilhelm Lanzky-Otto|4,3,11|3 Scandinavian, Danish, has part, [0, 1]  （7）无法得出  => 需要外部知识辅助才能解决这个问题。这个很难推理，但是因为其跨句子，所以造成了一点儿的难度。
+
